@@ -1,7 +1,7 @@
 # Education
 Repository for my solution code for different educational courses.
 
-This repository contains some solutions for task from different java and computer science related courses. Sometimes code may not be well structured because of only eduational purpose of this repo.
+This repository contains some solutions for tasks from different java and computer science related courses. Sometimes code may not be well structured because of only eduational purpose of this repo.
 
 This page pretty much describes my fundamental education in java programming (of course excluding documentation reading, source code, my own projects etc).
 Down here is a list of related interactive courses and books in order, which I personally find them helpfull and challenging in one way or another:
