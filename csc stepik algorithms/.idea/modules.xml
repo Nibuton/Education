@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Week 2 Introduction/Week 2 Introduction.iml" filepath="$PROJECT_DIR$/Week 2 Introduction/Week 2 Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week 4 Greedy Algorythms/Week 4 Greedy Algorythms.iml" filepath="$PROJECT_DIR$/Week 4 Greedy Algorythms/Week 4 Greedy Algorythms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/csc stepik algorythms 1.iml" filepath="$PROJECT_DIR$/.idea/csc stepik algorythms 1.iml" />
+    </modules>
+  </component>
+</project>
