@@ -8,8 +8,8 @@ Down here is a list of related interactive courses and books in order, which I p
 
 Courses:
 
-1. [Computer Science Center Java course from Stepik](https://stepik.org/course/187). Fully completed. I find this course extremly good.
-2. [Computer Science Center algorithms course from Stepik] (https://stepik.org/course/217). Fully completed. I find this course extremly good.
+1. [Computer Science Center Java course from Stepik](https://stepik.org/course/187). Fully completed. I find this course extremly good. Certificate
+2. [Computer Science Center algorithms course from Stepik](https://stepik.org/course/217). Fully completed. I find this course extremly good.
 3. [Spring Course from Udemy. Includes Spring Core, Hibernate, Spring MVC, Maven, Spring Rest, Spring Boot, Spring Data](https://www.udemy.com/course/spring-hibernate-tutorial/). In plans: Spring Security, AOP, Thymeleaf. 86% completed. I find this course good. 
 4. [Jetbrains Adaptive Java](https://stepik.org/course/2403) including [Collections](https://stepik.org/course/6860) and [Functional programming]( https://stepik.org/course/1595) (both fully completed) from Stepik. Adaptive Java itself is endless. I find this course good.
 5. GeekBrains MySQL course. Fully completed. I find this course good.
